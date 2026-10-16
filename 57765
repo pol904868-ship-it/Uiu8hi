@@ -1,0 +1,2 @@
+local cfg = game:GetService("HttpService"):JSONDecode(game:HttpGet("https://raw.githubusercontent.com/ТВОЙ_НИК/configs/main/legit.json"))
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Royal-Script-hub/kiti/refs/heads/main/kiti_loader"))()
